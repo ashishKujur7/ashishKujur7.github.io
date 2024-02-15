@@ -28,7 +28,7 @@ googleAnalytics = ""  # add your tracking id
   [[params.socialIcons]]
     icon = "fas fa-envelope"
     title = "E-mail"
-    url = "mailto:ashish.kujur@iisertvm.ac.in"
+    url = "mailto:ashishkujur23@iisertvm.ac.in"
 
   [[params.socialIcons]]
     icon = "fab fa-github"
