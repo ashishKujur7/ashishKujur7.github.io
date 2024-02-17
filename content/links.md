@@ -19,3 +19,4 @@ Here are some lecture notes and expository articles on some topics related to Op
 6. [A survey of Dirichlet Space by Nicola Arcozzi, Richard Rochberg, Eric T Sawyer, and Brett D Wick](https://arxiv.org/pdf/1008.5342.pdf)
 7. [Lecture Notes on Clark Measures](https://facultystaff.richmond.edu/~wross/PDF/Clark.pdf)
 8. [Pick's Theorem-What's the Big Deal?](https://www.jstor.org/stable/3072342)
+9. [Lecture Notes on Spectral Theorem for Normal Operators](https://math.dartmouth.edu/~dana/bookspapers/ln-spec-thm.pdf)

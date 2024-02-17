@@ -71,11 +71,16 @@ googleAnalytics = ""  # add your tracking id
    name="External Links"
    url="/links"
    weight=3
+   
+  [[menu.main]]
+   name="Notes"
+   url="/note"
+   weight=4
 
   [[menu.main]]
     name = "Contact"
     url = "/contact"
-    weight = 4
+    weight = 5
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
