@@ -9,7 +9,7 @@ googleAnalytics = ""  # add your tracking id
 [params]
   author = "Ashish Kujur"
   description = "A simple monospaced resume theme for Hugo."
-  favicon = "favicon.ico"  # path to a .ico to use as favicon
+#  favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
    text = ""
@@ -19,8 +19,10 @@ googleAnalytics = ""  # add your tracking id
     fontSize = "14pt"
     pageWidth = "1000px"
     avatarSize = "120px"
-    colorBlack = "#222222"
-    colorRed = "#dc3545"
+#    colorBlack = "#222222"
+#   colorRed = "#dc3545"
+	colorBlack = "#2e3440"
+	colorRed = "#bf616a"
 #  [[params.socialIcons]]
 #    icon = "fab fa-twitter"
 #    title = "Twitter"
