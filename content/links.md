@@ -20,3 +20,4 @@ Here are some lecture notes and expository articles on some topics related to Op
 7. [Lecture Notes on Clark Measures](https://facultystaff.richmond.edu/~wross/PDF/Clark.pdf)
 8. [Pick's Theorem-What's the Big Deal?](https://www.jstor.org/stable/3072342)
 9. [Lecture Notes on Spectral Theorem for Normal Operators](https://math.dartmouth.edu/~dana/bookspapers/ln-spec-thm.pdf)
+10. [What does the Spectral Theorem Say? By Paul Halmos](http://homepages.math.uic.edu/~furman/4students/halmos.pdf)
