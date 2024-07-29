@@ -8,7 +8,7 @@ math = true
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-I am Ashish Kujur, a student of Mathematics from [Rourkela, Odisha](https://en.wikipedia.org/wiki/Rourkela). Currently, I am a first year PhD student of Mathematics at the [Indian Institute of Science Education and Research in Thiruvananthapuram](https://www.iisertvm.ac.in/). My PhD advisor is [Md. Ramiz Reza](https://www.iisertvm.ac.in/faculty/ramiz).
+I am Ashish Kujur, a student of Mathematics from [Rourkela, Odisha](https://en.wikipedia.org/wiki/Rourkela). Currently, I am a second year PhD student of Mathematics at the [Indian Institute of Science Education and Research in Thiruvananthapuram](https://www.iisertvm.ac.in/). My PhD advisor is [Md. Ramiz Reza](https://www.iisertvm.ac.in/faculty/ramiz).
 
 I did my bachelor's at Loyola College, Chennai, and my master's at IISER Thiruvananthapuram.
 <div>

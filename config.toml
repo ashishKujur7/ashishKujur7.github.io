@@ -64,10 +64,10 @@ googleAnalytics = ""  # add your tracking id
    url="/publication"
    weight=2
 
-#  [[menu.main]]
-#   name="Teaching"
-#   url="/teaching"
-#   weight=3
+  [[menu.main]]
+   name="Teaching"
+   url="/teaching"
+   weight=3
 
   [[menu.main]]
    name="External Links"
