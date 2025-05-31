@@ -2,9 +2,9 @@
 title = "Ashish Kujur: Publications"
 +++
 
-# Preprints
+# Publications
 
-1. A. Kujur and M. R. Reza, "Brown Halmos Operator Identity and Toeplitz Operators on the Dirichlet Space", [arXiv:2411.02962](https://arxiv.org/abs/2411.02962), 2024.
+1. [A. Kujur and M.R. Reza, Toeplitz operators on the Dirichlet space and the Brown Halmos operator identity. Banach J. Math. Anal. 19, 42 (2025).](https://rdcu.be/eoMVa)
 
 # Conferences attended
 
