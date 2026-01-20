@@ -11,7 +11,7 @@ body {
     background: #fff;
 }
 
-/* Global link style (used everywhere: body, nav, footer) */
+/* Global link style */
 
 a {
     color: #0066cc;
@@ -63,7 +63,7 @@ h2 {
     overflow: hidden;
 }
 
-/* Profile photo (top right, rectangular, lowered) */
+/* Profile photo */
 
 .profile-photo {
     float: right;
@@ -75,17 +75,56 @@ h2 {
     border-radius: 4px;
     border: 1px solid #ddd;
     position: relative;
-    top: 38px;
+    top: 25px;
 }
 
 /* Footer */
 
 footer {
-    margin-top: 0px;
-    padding-top: 0px;
+    margin-top: 15px;
+    padding-top: 8px;
     border-top: 1px solid #ddd;
     font-size: 0.9em;
     color: #555;
     text-align: center;
+}
+
+/* ========================= */
+/* Mobile responsiveness    */
+/* ========================= */
+
+@media (max-width: 700px) {
+
+    body {
+        margin: 20px auto;
+        padding: 0 15px;
+        font-size: 16px;
+    }
+
+    h1 {
+        font-size: 26px;
+    }
+
+    nav {
+        text-align: center;
+    }
+
+    nav a {
+        display: inline-block;
+        margin-right: 12px;
+        font-size: 14px;
+    }
+
+    /* Move photo above text on phones */
+    .profile-photo {
+        float: none;
+        display: block;
+        margin: 10px auto 15px auto;
+        top: 0;
+    }
+
+    footer {
+        font-size: 0.85em;
+    }
 }
 
