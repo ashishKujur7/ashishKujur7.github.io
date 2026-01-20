@@ -116,14 +116,6 @@ footer {
         font-size: 14px;
     }
 
-    /* Move photo above text on phones */
-    .profile-photo {
-        float: none;
-        display: block;
-        margin: 10px auto 15px auto;
-        top: 0;
-    }
-
     footer {
         font-size: 0.85em;
     }
