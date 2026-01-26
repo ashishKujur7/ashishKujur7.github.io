@@ -121,3 +121,84 @@ footer {
     }
 }
 
+/* CV page styling */
+
+h3 {
+    margin-top: 22px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+section ul {
+    margin-top: 5px;
+}
+
+section li {
+    margin-bottom: 10px;
+}
+
+section span {
+    color: #666;
+    font-size: 0.95em;
+}
+
+/* ========================= */
+/* CV page styling          */
+/* ========================= */
+
+.cv-section {
+    margin-top: 10px;
+}
+
+.cv-list {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 5px;
+}
+
+.cv-list li {
+    margin-bottom: 12px;
+}
+
+.cv-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.cv-main {
+    max-width: 75%;
+}
+
+.cv-sub {
+    margin-top: 4px;
+    color: #555;
+    font-size: 0.95em;
+}
+
+.cv-date {
+    white-space: nowrap;
+    color: #666;
+    font-size: 0.95em;
+    text-align: right;
+}
+
+/* On small screens, stack date below */
+
+@media (max-width: 700px) {
+    .cv-item {
+        flex-direction: column;
+    }
+
+    .cv-date {
+        margin-top: 4px;
+        text-align: left;
+    }
+
+    .cv-main {
+        max-width: 100%;
+    }
+}
+
