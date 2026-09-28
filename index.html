@@ -15,11 +15,12 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<a class="skip-link" href="#main-content">Skip to content</a>
 
 <header>
     <h1>Ashish Kujur</h1>
-    <nav>
-        <a href="index.html">About</a>
+    <nav aria-label="Main navigation">
+        <a href="index.html" aria-current="page">About</a>
         <a href="research.html">Research</a>
         <a href="teaching.html">Teaching</a>
         <a href="cv.html">CV</a>
@@ -27,11 +28,11 @@
 </header>
 
 
-<div class="header-divider"></div>
+<div class="header-divider" aria-hidden="true"></div>
 
-<section class="profile-right">
+<main id="main-content" class="profile-right">
 
-    <img src="photo.jpg" alt="Ashish Kujur" class="profile-photo">
+    <img src="photo.jpg" alt="Ashish Kujur" class="profile-photo" width="124" height="124">
 
     <h2>About</h2>
 
@@ -73,7 +74,7 @@
         especially Dirichlet-type spaces and de Branges–Rovnyak spaces.
     </p>
 
-</section>
+</main>
 
 <footer>
     <p>

@@ -14,20 +14,21 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<a class="skip-link" href="#main-content">Skip to content</a>
 
 <header>
     <h1>Ashish Kujur</h1>
-    <nav>
+    <nav aria-label="Main navigation">
         <a href="index.html">About</a>
         <a href="research.html">Research</a>
         <a href="teaching.html">Teaching</a>
-        <a href="cv.html">CV</a>
+        <a href="cv.html" aria-current="page">CV</a>
     </nav>
 </header>
 
-<div class="header-divider"></div>
+<div class="header-divider" aria-hidden="true"></div>
 
-<section class="cv-section">
+<main id="main-content" class="cv-section">
 
     <h2>Curriculum Vitae</h2>
 
@@ -147,7 +148,7 @@
         </li>
     </ul>
 
-</section>
+</main>
 
 <footer>
     <p>
