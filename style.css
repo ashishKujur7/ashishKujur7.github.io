@@ -11,7 +11,7 @@
 html { background: var(--paper); -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
 body {
     max-width: 808px;
-    margin: 64px auto 48px;
+    margin: 24px auto 48px;
     padding: 0 28px;
     color: var(--ink);
     font-family: Georgia, "Times New Roman", serif;
@@ -68,7 +68,7 @@ h2 { margin: 0 0 19px; font-size: 26px; letter-spacing: -0.3px; }
 footer { margin-top: 37px; padding-top: 15px; border-top: 1px solid var(--rule); font-size: 14px; }
 footer .contact-links { font-size: 14px; }
 @media (max-width: 560px) {
-    body { margin-top: 30px; padding: 0 22px; font-size: 16px; line-height: 1.65; }
+    body { margin-top: 20px; padding: 0 22px; font-size: 16px; line-height: 1.65; }
     .profile {
         grid-template-columns: minmax(0, 1fr) 80px;
         grid-template-areas: "name photo" "affiliation affiliation";
